@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
       echo 'Primeiro GitHub.';     
       echo 'Segundo GitHub.';     
+      echo 'Terceiro GitHub.';     
         ?>
     </body>
 </html>
