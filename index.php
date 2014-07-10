@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-      echo 'Primeiro GitHub.';      
+      echo 'Primeiro GitHub.';     
+      echo 'Segundo GitHub.';     
         ?>
     </body>
 </html>
